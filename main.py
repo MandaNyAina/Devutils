@@ -1,4 +1,4 @@
-from modules.modules import *
+from modules.modules import Option, Apache
 
 bienvenue_message = "\n\n\t\tBIENVENUE DANS L'APPLICATION D'AUTOMATISATION DE MANDA\n\t\t"
 for i in range(0, len(bienvenue_message) - 7):
